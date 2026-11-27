@@ -231,5 +231,4 @@ If you use this code, please cite the accompanying paper and the version-specifi
 Paper: **“Syndrome-driven code adaptation for multi cycle quantum error correction.”**
 
 Repository: [eigentejas/adaptive-qec](https://github.com/eigentejas/adaptive-qec)
-
-The software DOI will be added after the first archived release.
+Software DOI: https://doi.org/10.5281/zenodo.24579444
